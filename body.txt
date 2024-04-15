@@ -1,0 +1,26 @@
+{
+  "modelUri": "gpt://b1gk6flevl4ubp8geur9/yandexgpt-lite",
+  "completionOptions": {
+    "stream": false,
+    "temperature": 0.3,
+    "maxTokens": "1000"
+  },
+  "messages": [
+    {
+      "role": "system",
+      "text": "Ты умный ассистент и знаешь рецепты."
+    },
+    {
+      "role": "user",
+      "text": "Привет! Как мне приготовить яичницу?"
+    },
+    {
+      "role": "assistant",
+      "text": "Привет! Какую яичницу вы хотите: глазунья, шакшука, болтунья, омлет? "
+    },
+    {
+      "role": "user",
+      "text": "Шакшука"
+    }
+  ]
+}
