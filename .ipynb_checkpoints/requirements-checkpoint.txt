@@ -1,7 +1,0 @@
-openai
-python-dotenv
-chromadb
-langchain-chroma
-langchain[all]
-
-
