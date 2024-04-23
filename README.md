@@ -1,10 +1,10 @@
 # simple RAG YandexGPT
 
-## Done
-1. Python script to connecting to YandexGPT API and prompt
-2. Yandex Embedding class and communucation with CromaDB 
-3. Simple text docs as a knowlage base
-4. Sending request to YandexGPT be LangChain, prompt contains document and query
+## About
+This progect represent simle implementation RAG ChatApp base on YandexGPT.
 
-## ToDo
-1. RAG implementation 
+## Consist of
+1. Yandex Embedding class and YandexLLM class in `YandexEmbeddings.ipynb` and `YandexLLM.ipynb`;
+3. Vector Data Base Croma DB;
+3. Small text docs as a knowlage base located in `documents` folder;
+4. Chain of LangChain, prompt contains document and query;
