@@ -1,7 +1,7 @@
 # simple RAG YandexGPT
 
 ## About
-This progect represent simle implementation RAG ChatApp base on YandexGPT.
+This project represents a simple implementation of RAG ChatApp based on YandexGPT.
 
 ## Consist of
 1. Yandex Embedding class and YandexLLM class in `YandexEmbeddings.ipynb` and `YandexLLM.ipynb`;
